@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "an-array-of-english-words": "^2.0.0",
+    "phaser": "^3.70.0"
+  }
+}
